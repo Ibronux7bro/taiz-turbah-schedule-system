@@ -1,4 +1,4 @@
-<img width="1920" height="1325" alt="screencapture-localhost-project-manger-schedules-php-2026-02-02-12_36_49" src="https://github.com/user-attachments/assets/dc9ac9d9-f59f-4141-bd12-563d949802a6" /># 🎓 نظام إدارة الجداول الدراسية - جامعة تعز فرع التربة
+# 🎓 نظام إدارة الجداول الدراسية - جامعة تعز فرع التربة
 
 <div align="center">
 
@@ -251,6 +251,11 @@ git pull origin main
 هذا المشروع مرخص تحت [MIT License](LICENSE).
 
 ---
+## صور للمشروع
+<img width="1920" height="1325" alt="screencapture-localhost-project-manger-schedules-php-2026-02-02-12_36_49" src="https://github.com/user-attachments/assets/dc9ac9d9-f59f-4141-bd12-563d949802a6" />
+
+[screencapture-localhost-project-manger-reports-php-2026-02-02-12_36_17.pdf](https://github.com/user-attachments/files/25009930/screencapture-localhost-project-manger-reports-php-2026-02-02-12_36_17.pdf)
+
 
 ## 👨‍💻 المطور
 
@@ -259,6 +264,7 @@ git pull origin main
 ### 🧑‍💻 المهندس / إبراهيم محمد إسماعيل
 
 **جامعة تعز - فرع التربة**
+
 
 ---
 
