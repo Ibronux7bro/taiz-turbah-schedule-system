@@ -251,10 +251,40 @@ git pull origin main
 هذا المشروع مرخص تحت [MIT License](LICENSE).
 
 ---
-## صور للمشروع
-<img width="1920" height="1325" alt="screencapture-localhost-project-manger-schedules-php-2026-02-02-12_36_49" src="https://github.com/user-attachments/assets/dc9ac9d9-f59f-4141-bd12-563d949802a6" />
+## الصفحه الرئيسية
+<img width="1920" height="5300" alt="screencapture-localhost-project-home-html-2026-02-02-15_02_07" src="https://github.com/user-attachments/assets/a58e31f8-bc2f-4529-b8f2-9211157c8c09" />
 
-[screencapture-localhost-project-manger-reports-php-2026-02-02-12_36_17.pdf](https://github.com/user-attachments/files/25009930/screencapture-localhost-project-manger-reports-php-2026-02-02-12_36_17.pdf)
+## نموذج طلب الجداول الدراسية
+<img width="1920" height="2260" alt="screencapture-localhost-project-table-html-2026-02-02-15_03_22" src="https://github.com/user-attachments/assets/54ef8f59-c240-4afb-8ed1-90764c95f678" />
+
+##  خريطة الحرم الجامعي
+
+<img width="1920" height="4281" alt="screencapture-localhost-project-map-html-2026-02-02-15_04_14" src="https://github.com/user-attachments/assets/f61c737d-643e-40fb-ae4b-84f2dc6a7976" />
+
+## تسجيل دخول
+<img width="1920" height="1121" alt="screencapture-localhost-project-login-php-2026-02-02-15_05_11" src="https://github.com/user-attachments/assets/a0779e80-e007-4871-a7f9-b692961b198b" />
+
+
+
+## صفحة ادارة الجداول
+
+<img width="1920" height="1325" alt="screencapture-localhost-project-manger-schedules-php-2026-02-02-12_36_49" src="https://github.com/user-attachments/assets/dc9ac9d9-f59f-4141-bd12-563d949802a6" />
+## صفحة ادارة الطلاب
+
+<img width="1920" height="2371" alt="screencapture-localhost-project-manger-students-php-2026-02-02-14_56_04" src="https://github.com/user-attachments/assets/fbcdca5e-d4f4-4e99-a8e0-6ffeb1377abc" />
+
+## صفحة ادارة الاقسام
+<img width="1920" height="1043" alt="screencapture-localhost-project-manger-departments-php-2026-02-02-14_59_02" src="https://github.com/user-attachments/assets/a8405d59-293f-4663-9b31-acbc09849c20" />
+
+## التقارير والإحصائيات
+<img width="1920" height="1967" alt="screencapture-localhost-project-manger-reports-php-2026-02-02-15_00_12" src="https://github.com/user-attachments/assets/c93d818f-9ace-4fde-a224-37ea121c7fd9" />
+
+## الإعدادات
+<img width="1920" height="1347" alt="screencapture-localhost-project-manger-settings-php-2026-02-02-15_01_36" src="https://github.com/user-attachments/assets/001498ff-5dde-4296-af7e-78836e948216" />
+
+
+
+
 
 
 ## 👨‍💻 المطور
